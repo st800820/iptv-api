@@ -1,27 +1,11 @@
 🕘️更新时间,#genre#
-2025-08-26 14:22:13,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+2025-08-27 00:18:59,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-CCTV-3,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-CCTV-4,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-CCTV-5,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-CCTV-5+,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-CCTV-6,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-CCTV-7,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV-8,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-CCTV-9,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-CCTV-10,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-CCTV-11,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-CCTV-12,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-CCTV-13,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-CCTV-14,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-CCTV-15,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-CCTV-16,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-CCTV-17,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
@@ -44,34 +28,15 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://148.135.93.213:81/live.php?id=浙江卫视#http://101.35.240.114:88/live.php?id=浙江卫视
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://101.35.240.114:88/live.php?id=浙江卫视#http://148.135.93.213:81/live.php?id=浙江卫视
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-黑龙江卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
-重庆卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
-东方卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
-东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=ac40f8051756195976
-广西卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
-贵州卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
-江苏卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
-辽宁卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
-青海卫视,http://sh.lnott.top:880/dx54.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-四川卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
-深圳卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
-三沙卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
-天津卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
-云南卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
 
 ☘️山东频道,#genre#
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -90,7 +55,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
