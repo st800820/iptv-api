@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2025-08-31 00:15:30,https://live.catvod.com/catvod_com.php?id=cctv2&token=c7722877cd31a406803bc541dcec19f5092d0c3893bf1b4a16142042dfd28109%3A1756444328#http://148.135.93.213:81/live.php?id=CCTV2#http://148.135.93.213/live.php?id=CCTV2#http://cdn.jdshipin.com/cctv2.php#http://47.91.17.126:20002/Smartv.php?id=cctv2#https://live.catvod.com/catvod_com.php?id=cctv2
+2025-08-31 14:18:31,http://110.181.237.202:9901/tsfile/live/0003_1.m3u8
 
 📺央视频道,#genre#
-CCTV-2,https://live.catvod.com/catvod_com.php?id=cctv2&token=c7722877cd31a406803bc541dcec19f5092d0c3893bf1b4a16142042dfd28109%3A1756444328#http://148.135.93.213:81/live.php?id=CCTV2#http://148.135.93.213/live.php?id=CCTV2#http://cdn.jdshipin.com/cctv2.php#http://47.91.17.126:20002/Smartv.php?id=cctv2#https://live.catvod.com/catvod_com.php?id=cctv2
 CCTV-3,http://110.181.237.202:9901/tsfile/live/0003_1.m3u8
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
@@ -29,31 +28,24 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=1998c55fd3663982e76b71480f2eb20ae892bc07bf016d03a668b0afd17f0b53%3A1756444328#http://101.35.240.114:88/live.php?id=广东卫视#https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn#http://148.135.93.213:81/live.php?id=广东卫视
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://live.catvod.com/catvod_com.php?id=zhejiang_twn#http://101.35.240.114:88/live.php?id=浙江卫视#http://148.135.93.213:81/live.php?id=浙江卫视#https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=5fd2e0d74c9943c5cca21009fff2e7ab1a6101390ef6ab0bb8aa21b4e8bfd5f8%3A1756444328
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://live.catvod.com/catvod_com.php?id=zhejiang_twn#http://47.91.17.126:20002/Smartv.php?id=zhejiang_twn#http://148.135.93.213:81/live.php?id=浙江卫视#http://101.35.240.114:88/live.php?id=浙江卫视#https://php.946985.xyz/smart.php?id=zhejiang_twn
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://148.135.93.213:81/live.php?id=浙江卫视#http://101.35.240.114:88/live.php?id=浙江卫视
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=5fd2e0d74c9943c5cca21009fff2e7ab1a6101390ef6ab0bb8aa21b4e8bfd5f8%3A1756444328#https://live.catvod.com/catvod_com.php?id=zhejiang_twn#http://101.35.240.114:88/live.php?id=浙江卫视#http://148.135.93.213:81/live.php?id=浙江卫视
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://101.35.240.114:88/live.php?id=浙江卫视#https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=5fd2e0d74c9943c5cca21009fff2e7ab1a6101390ef6ab0bb8aa21b4e8bfd5f8%3A1756444328#http://148.135.93.213:81/live.php?id=浙江卫视#https://live.catvod.com/catvod_com.php?id=zhejiang_twn
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://101.35.240.114:88/live.php?id=浙江卫视#http://148.135.93.213:81/live.php?id=浙江卫视
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://148.135.93.213:81/live.php?id=浙江卫视#http://101.35.240.114:88/live.php?id=浙江卫视
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://47.91.17.126:20002/Smartv.php?id=zhejiang_twn#http://101.35.240.114:88/live.php?id=浙江卫视#https://live.catvod.com/catvod_com.php?id=zhejiang_twn#http://148.135.93.213:81/live.php?id=浙江卫视
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://live.catvod.com/catvod_com.php?id=zhejiang_twn#http://47.91.17.126:20002/Smartv.php?id=zhejiang_twn#http://148.135.93.213:81/live.php?id=浙江卫视#http://101.35.240.114:88/live.php?id=浙江卫视#https://php.946985.xyz/smart.php?id=zhejiang_twn
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=5fd2e0d74c9943c5cca21009fff2e7ab1a6101390ef6ab0bb8aa21b4e8bfd5f8%3A1756444328#https://live.catvod.com/catvod_com.php?id=zhejiang_twn#http://101.35.240.114:88/live.php?id=浙江卫视#http://148.135.93.213:81/live.php?id=浙江卫视
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://101.35.240.114:88/live.php?id=浙江卫视#https://live.catvod.com/catvod_com.php?id=zhejiang_twn#https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=5fd2e0d74c9943c5cca21009fff2e7ab1a6101390ef6ab0bb8aa21b4e8bfd5f8%3A1756444328#http://148.135.93.213:81/live.php?id=浙江卫视
-湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=2ebdb20b377c614a58e84d1457b9174e18cbb6e44d10b1030282b8580348966d%3A1756444328#http://148.135.93.213:81/live.php?id=湖南卫视#http://101.35.240.114:88/live.php?id=湖南卫视#https://live.catvod.com/catvod_com.php?id=hunan_twn
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,https://live.catvod.com/catvod_com.php?id=beijing#http://101.35.240.114:88/live.php?id=北京卫视#http://148.135.93.213:81/live.php?id=北京卫视#http://115.190.105.236/bjtime.php?id=bjws#https://live.catvod.com/catvod_com.php?id=beijing&token=389b20e4467192a080d776399ff3b37ef49df64e454bbd1141439e8c7a4e7423%3A1756444328#http://47.91.17.126:20002/Smartv.php?id=beijing
-湖北卫视,https://live.catvod.com/catvod_com.php?id=hubei&token=afbaccc78d9ed317390d154a58a717f7d9afcb569ffaeca3e17a0d7516215f8e%3A1756444328#http://148.135.93.213:81/live.php?id=湖北卫视#https://live.catvod.com/catvod_com.php?id=hubei#http://47.91.17.126:20002/Smartv.php?id=hubei#http://101.35.240.114:88/live.php?id=湖北卫视
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://121.12.173.38/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9833bb3ad8b9285defc175d7e5ad28f7&wsTime=1756573856&wsSession=af9e5e11c93440af87e56feb-175656997846877&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=680c91cca445eb629adcb6057b15d21c&wsTime=1756633618&wsSession=053c4abd8e6b0e2e4f59d49b-175662032687544&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-四川卫视,https://live.catvod.com/catvod_com.php?id=sichuan_twn#http://148.135.93.213/live.php?id=四川卫视#http://148.135.93.213:81/live.php?id=四川卫视#https://live.catvod.com/catvod_com.php?id=sichuan_twn&token=446b46a702a9b375d5baeeef8e8b9ffd0b989386bd76d90461cd4315e7ed956f%3A1756444328
-深圳卫视,https://live.catvod.com/catvod_com.php?id=shenzhen&token=4fe04c3ace783069168a30345800d5db8e3cfee554b49ce29f07ab5a388f9bfd%3A1756444328#https://live.catvod.com/catvod_com.php?id=shenzhen#http://47.91.17.126:20002/Smartv.php?id=shenzhen#http://148.135.93.213:81/live.php?id=深圳卫视#http://101.35.240.114:88/live.php?id=深圳卫视
 
 ☘️山东频道,#genre#
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 
@@ -67,8 +59,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
