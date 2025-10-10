@@ -1,22 +1,11 @@
 🕘️更新时间,#genre#
-2025-10-10 00:18:34,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760043710-1-pcse829b6de7c0a4883af7f0976bb7c4579-97706f6fb6396c237612a0e6f338d252&yid=pcse829b6de7c0a4883af7f0976bb7c4579
+2025-10-10 14:22:33,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760079724-1-pcs3dec7615b3c54f179e8dbf68f3432979-98b38c2b8ef2c5bf2c7b16fe1fc98683&yid=pcs3dec7615b3c54f179e8dbf68f3432979
 
 📺央视频道,#genre#
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760043710-1-pcse829b6de7c0a4883af7f0976bb7c4579-97706f6fb6396c237612a0e6f338d252&yid=pcse829b6de7c0a4883af7f0976bb7c4579
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760079724-1-pcs3dec7615b3c54f179e8dbf68f3432979-98b38c2b8ef2c5bf2c7b16fe1fc98683&yid=pcs3dec7615b3c54f179e8dbf68f3432979
-CCTV-5,http://pa.kuangdeng.top:8081/hls/5/index.m3u8
-CCTV-5+,http://pa.kuangdeng.top:8081/hls/34/index.m3u8
-CCTV-6,http://pa.kuangdeng.top:8081/hls/6/index.m3u8
-CCTV-8,http://pa.kuangdeng.top:8081/hls/8/index.m3u8
-CCTV-9,http://pa.kuangdeng.top:8081/hls/9/index.m3u8
-CCTV-10,http://pa.kuangdeng.top:8081/hls/10/index.m3u8
-CCTV-11,http://pa.kuangdeng.top:8081/hls/11/index.m3u8
-CCTV-12,http://pa.kuangdeng.top:8081/hls/12/index.m3u8
-CCTV-14,http://pa.kuangdeng.top:8081/hls/14/index.m3u8
-CCTV-15,http://pa.kuangdeng.top:8081/hls/15/index.m3u8
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
@@ -42,28 +31,14 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 重庆卫视,http://pa.kuangdeng.top:8081/hls/47/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://pa.kuangdeng.top:8081/hls/48/index.m3u8
-甘肃卫视,http://pa.kuangdeng.top:8081/hls/38/index.m3u8
-广西卫视,http://pa.kuangdeng.top:8081/hls/28/index.m3u8
-海南卫视,http://pa.kuangdeng.top:8081/hls/41/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://pa.kuangdeng.top:8081/hls/40/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://pa.kuangdeng.top:8081/hls/31/index.m3u8
-辽宁卫视,http://pa.kuangdeng.top:8081/hls/27/index.m3u8
-宁夏卫视,http://pa.kuangdeng.top:8081/hls/42/index.m3u8
-青海卫视,http://pa.kuangdeng.top:8081/hls/43/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-深圳卫视,http://pa.kuangdeng.top:8081/hls/21/index.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-bnDT12.m3u8
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
-云南卫视,http://pa.kuangdeng.top:8081/hls/46/index.m3u8
 
 ☘️山东频道,#genre#
-山东文旅,http://139.129.231.228:50060/rtp/239.21.1.176:5002
-山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 
 🌊港·澳·台,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
@@ -74,6 +49,5 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
