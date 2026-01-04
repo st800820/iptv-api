@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-04 00:16:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-04 14:22:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -551,7 +551,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
@@ -560,6 +559,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-3.ctv
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
